@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">The Warrier Meditation New_New</string>
+    <string name="title_home">Home</string>
+    <string name="title_login">Login</string>
+    <string name="title_dashboard">DB</string>
+    <string name="text1">Discover the original, instinctive, non-religious form of meditation that has been lost to the world. Richard L Haight, award-winning author of The Unbound Soul and master of four samurai arts, shares the best-kept secret in self-improvement, cognitive development, and stress relief, which he calls the Warrior\'s Meditation.
+    </string>
+    <string name="text2">For people of all backgrounds, genders, and ages.</string>
+    <string name="text3">To get a picture of the Warrior’s Meditation, imagine a battlefield scenario with a single Samurai stands surrounded by multiple opponents. A novice’s attention would jump from opponent to opponent in an anxious attempt to defend himself. Such a strategy soon tires the warrior, who will be defeated. An expert warrior will spread his attention evenly in all directions but still experience anxiety as he mentally plans his strategy. His thought and anxiety may be his downfall if his opponents are truly skilled. A master’s attention, like the expert’s, is spread evenly, but he remains as calm as the surface of a still lake. With no predetermined idea of what his actions might be, his body takes the right action without a single thought.</string>
+    <string name="text4">You may wonder how the Samurai’s experience bears any resemblance to your modern life. After all, no armies or assassins seem to be trying to attack you or your town. In one way, we modern people are not so different from the Samurai. With our busy lives, we don’t have time to spend hours a day in meditation. Instead, we need a meditation that allows our actions in a high-pressure, fast-paced world to flow from a depth of awareness. The Warrior’s Meditation helps you access and express from that depth naturally.</string>
+    <string name="text5">Surprisingly, a significant body of scientific research verifies the benefits associated with regular meditation practice. Below are some of the benefits that one is likely to experience through daily meditation:</string>
+    <string name="text6">Boosts health through improved immune function, decreased cellular inflammation and pain.
+Boosts happiness by increasing positive emotion while decreasing anxiety, depression, and stress.
+Improves your ability to introspect, which provides a more holistic, grounded life perspective.
+Improves your social life as it increases emotional intelligence and compassion while reducing feelings of insecurity.
+Improves your brain by increasing grey matter in areas related to paying attention, positive emotions, emotional regulation, and self-control.
+Reduces emotional reactivity.
+Improves memory, creativity and abstract thinking.</string>
+    <string name="text7">The Warrior\'s Meditation is unlike any meditation. This method is flexible in application, which allows it to blend with whatever your day has in store. Through short daily sessions, these benefits will open up to you through your active life. No longer do you need to retreat from life to meditate, for with the Warrior\'s Meditation, you can bring calm, clear awareness and vibrant life with you wherever you are. Eventually, you will fully embody meditation as a way of being, not just a doing.</string>
+
+    <string name="title_notifications">Notifications</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
