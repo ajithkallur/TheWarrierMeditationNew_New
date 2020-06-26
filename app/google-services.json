@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954028523626",
+    "firebase_url": "https://thewarriermeditation.firebaseio.com",
+    "project_id": "thewarriermeditation",
+    "storage_bucket": "thewarriermeditation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954028523626:android:367f46812f39a111d88a13",
+        "android_client_info": {
+          "package_name": "com.example.thewarriermeditationnew_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954028523626-mjdje0oorurakhj2kfp95rk1tmkocjga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8R3w9DNEXAT1e40z1-asTlSwjJbOilA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954028523626-mjdje0oorurakhj2kfp95rk1tmkocjga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
